@@ -1,5 +1,5 @@
 ### Simple Tool for Fortnite Modding Communities
-- **Convert Item IDs to JSON for Athena Profiles perfect for Fortnite Private Servers with ease.**
+- **Convert Item IDs to JSON for Athena Profiles, Perfect for Fortnite Private Servers with ease.**
 ---
 ## Format Output Example
 ```json
