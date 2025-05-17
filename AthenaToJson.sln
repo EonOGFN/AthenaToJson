@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AthenaToJson", "ConsoleApp1\AthenaToJson.csproj", "{F0767D9C-9798-4F48-A25D-3D31B1AD4B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0767D9C-9798-4F48-A25D-3D31B1AD4B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0767D9C-9798-4F48-A25D-3D31B1AD4B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0767D9C-9798-4F48-A25D-3D31B1AD4B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0767D9C-9798-4F48-A25D-3D31B1AD4B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96326364-3A4E-48A3-9903-5B289A86506E}
+	EndGlobalSection
+EndGlobal
